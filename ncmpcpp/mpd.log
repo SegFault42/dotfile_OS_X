@@ -1,0 +1,63 @@
+Mar 07 14:31 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 07 14:31 : config: option 'enabled' on line 20 was not recognized
+Mar 07 14:31 : update: added Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/16 - theDOGS.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/01 - Barricades.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/07 - attack音D.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/06 - ERENthe標.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/09 - 2Volt.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/08 - YAMANAIAME.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/02 - APETITAN.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/03 - YouSeeBIGGIRL／T：T.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/13 - ymniam-orch.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 07 14:31 : update: added Attack on Titan/disc 1/11 - So ist es immer.flac
+Mar 07 14:32 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 07 14:32 : config: option 'enabled' on line 20 was not recognized
+Mar 07 14:32 : client: [0] opened from 127.0.0.1:58030
+Mar 07 15:27 : client: [0] closed
+Mar 07 16:53 : client: [1] opened from 127.0.0.1:59090
+Mar 07 16:53 : player: played "Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac"
+Mar 07 16:56 : player: played "Attack on Titan/disc 1/13 - ymniam-orch.flac"
+Mar 07 17:01 : player: played "Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac"
+Mar 07 17:27 : player: played "Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac"
+Mar 07 17:31 : player: played "Attack on Titan/disc 1/16 - theDOGS.flac"
+Mar 07 19:51 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 07 19:54 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 07 20:01 : player: played "Attack on Titan/disc 1/06 - ERENthe標.flac"
+Mar 07 20:05 : player: played "Attack on Titan/disc 1/07 - attack音D.flac"
+Mar 07 20:10 : player: played "Attack on Titan/disc 1/08 - YAMANAIAME.flac"
+Mar 07 20:17 : player: played "Attack on Titan/disc 1/09 - 2Volt.flac"
+Mar 07 20:22 : player: played "Attack on Titan/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac"
+Mar 07 20:26 : player: played "Attack on Titan/disc 1/11 - So ist es immer.flac"
+Mar 07 20:31 : player: played "Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac"
+Mar 07 20:34 : player: played "Attack on Titan/disc 1/13 - ymniam-orch.flac"
+Mar 07 20:39 : player: played "Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac"
+Mar 07 21:50 : player: played "Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac"
+Mar 07 21:55 : player: played "Attack on Titan/disc 1/16 - theDOGS.flac"
+Mar 07 21:57 : client: [1] closed
+Mar 08 14:15 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 08 14:15 : config: option 'enabled' on line 20 was not recognized
+Mar 08 14:15 : client: [0] opened from 127.0.0.1:53190
+Mar 08 14:21 : player: played "Attack on Titan/disc 1/01 - Barricades.flac"
+Mar 08 14:26 : player: played "Attack on Titan/disc 1/02 - APETITAN.flac"
+Mar 08 14:32 : player: played "Attack on Titan/disc 1/03 - YouSeeBIGGIRL／T：T.flac"
+Mar 08 14:37 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 08 14:40 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 08 14:47 : player: played "Attack on Titan/disc 1/06 - ERENthe標.flac"
+Mar 08 14:51 : player: played "Attack on Titan/disc 1/07 - attack音D.flac"
+Mar 08 14:56 : player: played "Attack on Titan/disc 1/08 - YAMANAIAME.flac"
+Mar 08 15:03 : player: played "Attack on Titan/disc 1/09 - 2Volt.flac"
+Mar 08 15:08 : player: played "Attack on Titan/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac"
+Mar 08 15:14 : player: played "Attack on Titan/disc 1/11 - So ist es immer.flac"
+Mar 08 15:18 : player: played "Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac"
+Mar 08 15:21 : player: played "Attack on Titan/disc 1/13 - ymniam-orch.flac"
+Mar 08 15:26 : player: played "Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac"
+Mar 08 15:30 : player: played "Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac"
+Mar 08 15:35 : player: played "Attack on Titan/disc 1/16 - theDOGS.flac"
+Mar 08 17:01 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 08 17:04 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
