@@ -1,8 +1,8 @@
 sw_volume: 70
 audio_device_state:1:CoreAudio
 state: pause
-current: 5
-time: 207.958000
+current: 6
+time: 166.723000
 random: 0
 repeat: 0
 single: 0

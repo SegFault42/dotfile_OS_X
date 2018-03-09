@@ -1,5 +1,10 @@
-mkdir chunkwm
-mkdir ncmpcpp
+if [ ! -d "chunkwm" ]; then
+	mkdir chunkwm
+fi
+
+if [ ! -d "ncmpcpp" ]; then
+	mkdir ncmpcpp
+fi
 
 cp -fr ~/.chunkwmrc ./chunkwm/
 cp -fr ~/.khdrc ./chunkwm/

@@ -101,43 +101,5 @@ unset DOCKER_TLS_VERIFY
 unset DOCKER_CERT_PATH
 unset DOCKER_MACHINE_NAME
 unset DOCKER_HOST
-rmd () {
-  pandoc $1 | lynx -stdin
-}
 
-function iplocation()
-{
-    curl -s "https://tools.keycdn.com/geo.json?host={$1}" | \
-        python3 -c "import sys, json; print(json.load(sys.stdin)['data']['geo'])"
-}
-
-function build_makefile()
-{
-    find . -name "*.c" | sort | cut -c 3- | sed 's|$|   \\|'
-}
-function subl()
-{
-    for i in $@;
-    do
-        test -e $i
-        if [[ $? -eq 1 ]];
-        then
-            touch $i;
-        fi;
-    done;
-    open -a Sublime\ Text $@;
-}
-
-function myexternalip()
-{
-    curl ipinfo.io/ip
-}
-
-function myinternalip()
-{
-    ifconfig lo0 | grep 'inet ' | sed -e 's/:/ /' | awk '{print "lo0       : " $2}'
-    ifconfig en0 | grep 'inet ' | sed -e 's/:/ /' | awk '{print "en0 (IPv4): " $2 " " $3 " " $4 " " $5 " " $6}'
-    ifconfig en0 | grep 'inet6 ' | sed -e 's/ / /' | awk '{print "en0 (IPv6): " $2 " " $3 " " $4 " " $5 " " $6}'
-    ifconfig en1 | grep 'inet ' | sed -e 's/:/ /' | awk '{print "en1 (IPv4): " $2 " " $3 " " $4 " " $5 " " $6}'
-    ifconfig en1 | grep 'inet6 ' | sed -e 's/ / /' | awk '{print "en1 (IPv6): " $2 " " $3 " " $4 " " $5 " " $6}'
-}
+export PATH=$PATH:/usr/local/Cellar/cython/0.27.3/bin/
