@@ -60,6 +60,7 @@ chunkc set monitor_focus_cycle           1
 chunkc set window_focus_cycle            monitor
 
 chunkc set mouse_follows_focus           off
+chunkc set mouse_move_window             alt
 chunkc set window_float_next             0
 chunkc set window_region_locked          0
 
@@ -83,7 +84,7 @@ chunkc set window_float_topmost          0
 chunkc set window_fade_inactive          0
 chunkc set window_fade_alpha             0.85
 chunkc set window_fade_duration          0.25
-chunkc set window_use_cgs_move           0
+chunkc set window_use_cgs_move           1
 
 #
 # NOTE: the following are config variables for the chunkwm-border plugin.
