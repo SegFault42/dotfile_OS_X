@@ -102,4 +102,5 @@ unset DOCKER_CERT_PATH
 unset DOCKER_MACHINE_NAME
 unset DOCKER_HOST
 
-export PATH=$PATH:/usr/local/Cellar/cython/0.27.3/bin/
+export PATH=$PATH:/usr/local/Cellar/cython/0.27.3/bin/:/usr/local/go/bin
+export GOPATH=$HOME/go
