@@ -41,7 +41,7 @@ chunkc set global_desktop_offset_top     10
 chunkc set global_desktop_offset_bottom  10
 chunkc set global_desktop_offset_left    10
 chunkc set global_desktop_offset_right   10
-chunkc set global_desktop_offset_gap     10
+chunkc set global_desktop_offset_gap     20
 
 #chunkc set 3_desktop_offset_top          190
 #chunkc set 3_desktop_offset_bottom       190
@@ -102,7 +102,7 @@ chunkc set focused_border_skip_floating  0
 
 chunkc core::load border.so
 chunkc core::load tiling.so
-chunkc core::load ffm.so
+#chunkc core::load ffm.so //focus follow mouse
 
 #
 # NOTE: shell commands require escaped quotes

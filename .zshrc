@@ -9,13 +9,6 @@ export ZSH=/Users/segfault42/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="amuse"
 
-# Set list of themes to load
-# Setting this variable when ZSH_THEME=random
-# cause zsh load theme from this variable instead of
-# looking in ~/.oh-my-zsh/themes/
-# An empty array have no effect
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
-
 # Uncomment the following line to change how often to auto-update (in days).
  export UPDATE_ZSH_DAYS=1
 
@@ -38,23 +31,23 @@ source $ZSH/oh-my-zsh.sh
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-source /Users/segfault42/.Sublivim/sublivimrc.sh
+
+source $HOME/.Sublivim/sublivimrc.sh
 
 export PATH=$PATH:/usr/local/Cellar/cython/0.27.3/bin/
 
 #GO ENV
-export PATH=$PATH:/Users/segfault42/go/bin/
+export PATH=$PATH:$HOME/go/bin/:/usr/local/go/bin
 export GOPATH=$HOME/go
 
 mkcdir ()
 {
-    mkdir -p -- "$1" &&
-      cd -P -- "$1"
+	mkdir -p -- "$1" &&
+	cd -P -- "$1"
 }
 
 alias pcat='pygmentize -f terminal256 -O style=native -g'
+alias cat='pcat'
 alias suspend="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+source /Users/segfault42/.Sublivim/sublivimrc.sh
+neofetch
