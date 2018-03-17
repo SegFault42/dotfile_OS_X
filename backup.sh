@@ -6,6 +6,10 @@ if [ ! -d ".ncmpcpp" ]; then
 	mkdir .ncmpcpp
 fi
 
+if [ ! -d "Übersicht" ]; then
+	mkdir Übersicht
+fi
+
 if [ ! -d ".mpd" ]; then
 	mkdir .mpd
 fi
@@ -16,3 +20,4 @@ cp -fr ~/Library/Preferences/kitty/kitty.conf .
 cp -fr ~/.zshrc .
 cp -fr ~/.mpd/ ./.mpd/
 cp -fr ~/.ncmpcpp/ ./.ncmpcpp/
+cp -fr ~/Library/Application\ Support/Übersicht/* ./Übersicht

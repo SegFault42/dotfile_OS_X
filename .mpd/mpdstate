@@ -1,29 +1,30 @@
 sw_volume: 100
 audio_device_state:1:CoreAudio
-state: stop
-current: 0
+state: play
+current: 2
+time: 3.994000
 random: 0
-repeat: 1
-single: 1
+repeat: 0
+single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Attack on Titan/disc 1/01 - Barricades.flac
-1:Attack on Titan/disc 1/02 - APETITAN.flac
-2:Attack on Titan/disc 1/03 - YouSeeBIGGIRL／T：T.flac
-3:Attack on Titan/disc 1/04 - son2seaVer.flac
-4:Attack on Titan/disc 1/05 - Call of Silence.flac
-5:Attack on Titan/disc 1/06 - ERENthe標.flac
-6:Attack on Titan/disc 1/07 - attack音D.flac
-7:Attack on Titan/disc 1/08 - YAMANAIAME.flac
-8:Attack on Titan/disc 1/09 - 2Volt.flac
-9:Attack on Titan/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac
-10:Attack on Titan/disc 1/11 - So ist es immer.flac
-11:Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac
-12:Attack on Titan/disc 1/13 - ymniam-orch.flac
-13:Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac
-14:Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac
-15:Attack on Titan/disc 1/16 - theDOGS.flac
+0:Shingeki no kyojin DIsc 1/disc 1/01 - Barricades.flac
+1:Shingeki no kyojin DIsc 1/disc 1/02 - APETITAN.flac
+2:Shingeki no kyojin DIsc 1/disc 1/03 - YouSeeBIGGIRL／T：T.flac
+3:Shingeki no kyojin DIsc 1/disc 1/04 - son2seaVer.flac
+4:Shingeki no kyojin DIsc 1/disc 1/05 - Call of Silence.flac
+5:Shingeki no kyojin DIsc 1/disc 1/06 - ERENthe標.flac
+6:Shingeki no kyojin DIsc 1/disc 1/07 - attack音D.flac
+7:Shingeki no kyojin DIsc 1/disc 1/08 - YAMANAIAME.flac
+8:Shingeki no kyojin DIsc 1/disc 1/09 - 2Volt.flac
+9:Shingeki no kyojin DIsc 1/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac
+10:Shingeki no kyojin DIsc 1/disc 1/11 - So ist es immer.flac
+11:Shingeki no kyojin DIsc 1/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac
+12:Shingeki no kyojin DIsc 1/disc 1/13 - ymniam-orch.flac
+13:Shingeki no kyojin DIsc 1/disc 1/14 - The Reluctant Heroes _MODv_.flac
+14:Shingeki no kyojin DIsc 1/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac
+15:Shingeki no kyojin DIsc 1/disc 1/16 - theDOGS.flac
 playlist_end

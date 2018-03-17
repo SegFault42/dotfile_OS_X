@@ -9938,3 +9938,227 @@ Mar 15 11:26 : client: [3] opened from 127.0.0.1:49357
 Mar 15 11:26 : client: [3] closed
 Mar 15 18:23 : client: [4] opened from 127.0.0.1:53059
 Mar 15 18:24 : client: [4] closed
+Mar 17 12:46 : client: [5] opened from 127.0.0.1:53364
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/04 - son2seaVer.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/04 - son2seaVer.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:46 : exception: Failed to decode /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:46 : exception: nested: Failed to open /Users/segfault42/Music/Attack on Titan/disc 1/05 - Call of Silence.flac: No such file or directory
+Mar 17 12:46 : player: played "Attack on Titan/disc 1/05 - Call of Silence.flac"
+Mar 17 12:47 : client: [5] closed
+Mar 17 12:48 : client: [6] opened from 127.0.0.1:53383
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/16 - theDOGS.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/14 - The Reluctant Heroes _MODv_.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/13 - ymniam-orch.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/11 - So ist es immer.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/09 - 2Volt.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/08 - YAMANAIAME.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/07 - attack音D.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/06 - ERENthe標.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/05 - Call of Silence.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/04 - son2seaVer.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/03 - YouSeeBIGGIRL／T：T.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/02 - APETITAN.flac
+Mar 17 12:48 : update: removing Attack on Titan/disc 1/01 - Barricades.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/12 - 進撃st-hrn-gt-pf20130629巨人.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/16 - theDOGS.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/01 - Barricades.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/15 - 進撃st-hrn-gt20130629巨人.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/07 - attack音D.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/06 - ERENthe標.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/04 - son2seaVer.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/09 - 2Volt.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/08 - YAMANAIAME.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/02 - APETITAN.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/14 - The Reluctant Heroes _MODv_.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/10 - 進撃st-hrn-egt20130629巨人.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/03 - YouSeeBIGGIRL／T：T.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/13 - ymniam-orch.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/05 - Call of Silence.flac
+Mar 17 12:48 : update: added Shingeki no kyojin DIsc 1/disc 1/11 - So ist es immer.flac
+Mar 17 12:49 : client: [6] closed
+Mar 17 15:57 : player: played "Shingeki no kyojin DIsc 1/disc 1/07 - attack音D.flac"
+Mar 17 19:39 : config: inotify: auto_update was disabled. enable during compilation phase
+Mar 17 19:39 : config: option 'enabled' on line 20 was not recognized
+Mar 17 19:39 : client: [0] opened from 127.0.0.1:60334
+Mar 17 19:43 : player: played "Shingeki no kyojin DIsc 1/disc 1/01 - Barricades.flac"
+Mar 17 19:48 : player: played "Shingeki no kyojin DIsc 1/disc 1/02 - APETITAN.flac"
