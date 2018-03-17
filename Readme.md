@@ -6,8 +6,10 @@
 - clock : tty-clock
 - shell : oh my zsh
 - vim colorscheme : badwolf
+-information : neofetch
+- finder in terminal : ranger
 
-![clean](https://user-images.githubusercontent.com/9384676/37258532-c73ada86-2579-11e8-8ed5-243f76e8b18d.png)
+![clean](https://user-images.githubusercontent.com/9384676/37558968-2f50fc8e-2a1d-11e8-8f87-fc3de3b84546.jpg)
 
-![screenshot](https://user-images.githubusercontent.com/9384676/37258331-8737dad6-2576-11e8-962a-79de3cf83511.png)
+![screenshot](https://user-images.githubusercontent.com/9384676/37558906-fbd7c0b4-2a1b-11e8-87e7-be18150e9793.png)
 
