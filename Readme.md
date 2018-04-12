@@ -1,5 +1,7 @@
 # Dotfile OS X
 
+[![HitCount](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/dotfile_OS_X.svg)](http://hits.dwyl.io/SegFault42/https://github.com/SegFault42/dotfile_OS_X)
+
 - Terminal used : Kitty
 - Window manager : Chunkwm + khd
 - Music player : ncmpcpp
